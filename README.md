@@ -2,6 +2,8 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
+# PLEASE LOOK INTO THE README-TEMPLATE FOR THE SOLUTION OF THIS CHALLENGE.
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
